@@ -65,9 +65,3 @@ addnode=187.77.87.53
 ## License
 
 MIT License — 2026 Rafsen Project
-READMEEOF
-
-cd ~/bolckchain/dogecoin
-git add README.md
-git commit -m "Add Rafsen README"
-git push origin master
