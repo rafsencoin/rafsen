@@ -52,8 +52,8 @@ cpuminer -a scrypt -o http://127.0.0.1:18776 -u rafuser -p rafpass123 --coinbase
 
 Add to ~/.raf/rafsen.conf:
 server=1
-rpcuser=rafuser
-rpcpassword=rafpass123
+rpcuser=YOUR_USERNAME
+rpcpassword=YOUR_STRONG_PASSWORD
 addnode=187.77.87.53
 
 ## Links
