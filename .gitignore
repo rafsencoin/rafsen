@@ -129,3 +129,7 @@ stage/
 *.iws
 *.iml
 *.ipr
+src/rafd
+src/rafsen-cli
+configure~
+src/univalue/configure~
