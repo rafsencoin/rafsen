@@ -43,7 +43,7 @@ Rafsen is not a token — it is its own blockchain. Every RAF in existence was e
 |**Block Time**      |~1 minute                    |
 |**Block Reward**    |50 RAF (Era 1)                  |
 |**Maximum Supply**  |100,000,000 RAF                 |
-|**Halving Interval**|Every 210,000 blocks (~4 years) |
+|**Halving Interval**|Every 210,000 blocks (~145 days) |
 |**P2P Port**        |`18777`                         |
 |**RPC Port**        |`18776`                         |
 |**Address Prefix**  |`D`                             |
@@ -72,10 +72,10 @@ Message: "Rafsen RAF - The Iraqi Crypto 30/03/2026"
 
 |Era            |Block Range      |Block Reward|RAF Issued|Duration|
 |:-------------:|:----------------|:----------:|:--------:|:------:|
-|**1** ← Current|0 – 210,000      |**50 RAF**  |10,500,000|~4 years|
-|2              |210,001 – 420,000|25 RAF      |5,250,000 |~4 years|
-|3              |420,001 – 630,000|12.5 RAF    |2,625,000 |~4 years|
-|4              |630,001 – 840,000|6.25 RAF    |1,312,500 |~4 years|
+|**1** ← Current|0 – 210,000      |**50 RAF**  |10,500,000|~145 days|
+|2              |210,001 – 420,000|25 RAF      |5,250,000 |~145 days|
+|3              |420,001 – 630,000|12.5 RAF    |2,625,000 |~145 days|
+|4              |630,001 – 840,000|6.25 RAF    |1,312,500 |~145 days|
 |…              |Continues halving|→ 0         |Remainder |~64 eras|
 
 **Total Maximum Supply: 100,000,000 RAF** — 100% mined, 0% pre-mined.
