@@ -40,7 +40,7 @@ Rafsen is not a token — it is its own blockchain. Every RAF in existence was e
 |**Ticker Symbol**   |`RAF`                           |
 |**Network Type**    |Layer 1 — Independent Blockchain|
 |**Consensus**       |Scrypt Proof-of-Work            |
-|**Block Time**      |~2.5 minutes                    |
+|**Block Time**      |~1 minute                    |
 |**Block Reward**    |50 RAF (Era 1)                  |
 |**Maximum Supply**  |100,000,000 RAF                 |
 |**Halving Interval**|Every 210,000 blocks (~4 years) |
